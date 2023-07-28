@@ -5,7 +5,7 @@
 application:
   author: roushan
   name: sampleapi #Aadhar Vault Manager
-  type: api
+  type: Pod
 
 replicaCount: 1
 
